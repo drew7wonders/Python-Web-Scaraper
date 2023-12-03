@@ -4,7 +4,9 @@ Run the following command to install the dependencies:
 ```
 pip install flask
 ```
+```
 pip install beautifulsoup4
+```
 ```
 pip install requests
 ```
